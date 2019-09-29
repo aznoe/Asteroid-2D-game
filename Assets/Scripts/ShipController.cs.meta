@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5a3eee8bc8ca744ca225836fc63cb09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crash: {fileID: 8300000, guid: 4b94af335927e6c4c936f70c4fc3a128, type: 3}
+  - shoot: {fileID: 8300000, guid: d16c216981714fd459947c469f2522d4, type: 3}
+  - bullet: {fileID: 9176546111096543916, guid: 78028ea91f3f39145a5728531fb320bf,
+      type: 3}
+  - gameController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
